@@ -1,0 +1,149 @@
+body {
+    background-image: url("img/gradient\ \(2\).png");
+    color: white;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+h1 {
+    margin-top: 34px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 900;
+    margin-left: 20px;
+    font-size: 40px;
+    color: white;
+}
+
+.navbar {
+    background-color: transparent;
+}
+
+.navbar {
+    list-style: none;
+    margin-left: 750px;
+    padding: 0;
+    margin-top: -4%;
+    display: flex;
+}
+
+nav li {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+.navlist {
+    background-image: linear-gradient(to right, #405fcd00 0%, #f1f1f12a 51%, #3652b600 100%);
+    text-align: center;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    border-radius: 15px;
+    display: block;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    text-align: center;
+    margin: 0px 10px;
+    padding: 3px 15px;
+    padding-bottom: 7px;
+    text-decoration: none;
+}
+
+a:hover {
+    background-position: right center;
+    color: #fff;
+}
+
+.contact {
+    margin-top: 210px;
+    text-align: center;
+    margin-right: 0;
+    margin-left: 0%;
+    margin-bottom: 200px;
+}
+
+.ha1 {
+    font-size: 40px;
+    margin-left: 0;
+}
+
+.gmail {
+    margin-bottom: 5px;
+    padding-bottom: 0%;
+}
+
+.or {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+
+.feedback {
+    font-size: large;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    background-image: linear-gradient(to left, #405fcd00 0%, #f1f1f12a 51%, #3652b600 100%);
+    text-align: center;
+    transition: 0.5s;
+    background-size: 200% auto;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-radius: 15px;
+    padding-top: 3px;
+    padding-bottom: 6px;
+}
+
+.feedback:hover {
+    cursor: pointer;
+    color: rgb(197, 221, 236);
+}
+
+.footnote {
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.846));
+    text-align: center;
+    height: 217px;
+    margin-right: -8px;
+    margin-top: 0px;
+    margin-bottom: -20%;
+    margin-left: -10px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.copyright {
+    padding-top: 120px;
+    color: rgba(255, 255, 255, 0.71);
+    font-size: 12px;
+}
+
+.pa1 {
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.pa2 {
+    padding-bottom: 0%;
+    padding-top: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.pa3 {
+    padding-bottom: 0%;
+    padding-top: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.aboutus {
+    margin-left: 150px;
+    width: 1200px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.AU {
+    font-size: 40px;
+}
+
+.aboutuspara {
+    line-height: 26px;
+    word-spacing: 2px;
+}

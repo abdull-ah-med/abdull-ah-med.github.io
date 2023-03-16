@@ -1,0 +1,212 @@
+body {
+  background-image: url("img/gradient\ \(2\).png");
+
+}
+
+.d1 {
+  margin-top: -1%;
+  width: 1000px;
+  height: 70px;
+  position: static;
+  z-index: 1000;
+}
+
+.navbar {
+  background-color: transparent;
+  list-style: none;
+  margin-left: 750px;
+  padding: 0;
+  margin-top: 35px;
+  display: flex;
+  position: fixed;
+}
+.create {
+  margin-left: 50px;
+  margin-top: -16%;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  color: white;
+  font-stretch: ultra-expanded;
+  font-size: xx-large;
+}
+.topimg{
+  margin-top: 130px;
+}
+h1 {
+  margin-top: 20px;
+  font-weight: 900;
+  margin-left: 20px;
+  font-size: 40px;
+  color: white;
+  position: fixed;
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+nav li {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+img {
+  margin-left: 700px;
+  margin-top: 100px;
+  width: 750px;
+  height: 400px;
+  background-image: linear-gradient(to left, transparent, rgba(0, 0, 0, 0.7));
+  border-radius: 20px;
+}
+
+.navlist {
+  background-image: linear-gradient(to right, #405fcd00 0%, #f1f1f12a 51%, #3652b600 100%);
+  text-align: center;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 15px;
+  display: block;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  text-align: center;
+  margin: 0px 10px;
+  padding: 3px 15px;
+  padding-bottom: 7px;
+  text-decoration: none;
+}
+
+a:hover {
+  background-position: right center;
+  color: #fff;
+}
+
+.shadow-hover:hover {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.text {
+  margin-left: 100px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 4px;
+  padding-bottom: 6px;
+  text-decoration: none;
+  background-image: linear-gradient(to right, #405fcd00 0%, #244dbe69 51%, #3652b600 100%);
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 15px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  text-decoration: none;
+}
+
+.text:hover {
+  background-position: right center;
+  color: #fff;
+}
+
+.corp {
+  margin-left: 930px;
+  margin-top: -22%;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  color: white;
+  font-stretch: ultra-expanded;
+  font-size: xx-large;
+}
+
+.corpimg {
+  width: 800px;
+  margin-top: 370px;
+  margin-left: 0;
+  margin-right: 600px;
+  margin-left: 20px;
+}
+
+.corptxt {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  margin-left: 920px;
+  padding-right: 15px;
+  padding-left: 15px;
+  padding-top: 3px;
+  padding-bottom: 6px;
+  text-decoration: none;
+  background-image: linear-gradient(to right, #405fcd00 0%, #1b46bd93 51%, #3652b600 100%);
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+  border-radius: 15px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  text-decoration: none;
+}
+
+.corptxt:hover {
+  background-position: right center;
+  color: #fff;
+}
+
+.helpsection {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  color: white;
+  margin-top: 350px;
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+.a1 {
+  font-size: xx-large;
+  margin-bottom: 0%;
+}
+
+.a2 {
+  font-size: x-large;
+  margin-top: 0;
+  margin-bottom: 70px;
+}
+
+.b1 {
+  color: rgb(72, 189, 18);
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.b1:hover {
+  cursor: pointer;
+  box-shadow: transparent;
+  box-shadow: none;
+  border: none;
+  padding-top: 20px;
+}
+
+.footnote {
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.846));
+  height: 200px;
+  margin-right: -7px;
+  margin-bottom: -9px;
+  padding-bottom: -10%;
+  margin-left: -8px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.copyright {
+  text-align: center;
+  color: rgba(255, 255, 255, 0.71);
+  font-size: 12px;
+  margin-left: 20px;
+}
+
+.pa1 {
+  padding-top: 130px;
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+
+.pa2 {
+  padding-bottom: 0%;
+  padding-top: 0%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+.pa3 {
+  padding-bottom: 0%;
+  padding-top: 0%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}

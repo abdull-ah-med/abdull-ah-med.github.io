@@ -1,0 +1,178 @@
+body {
+    background-image: url("img/gradient\ \(2\).png");
+}
+
+.d1 {
+    margin-top: 21px;
+    width: 1000px;
+    height: 70px;
+    position: static;
+    z-index: 1000;
+  }
+
+.navbar {
+    margin-top: 30px;
+    background-color: transparent;
+    list-style: none;
+    margin-left: 750px;
+    padding: 0;
+    display: flex;
+    position: fixed;
+}
+
+h1 {
+    margin-top: 16px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 900;
+    margin-left: 20px;
+    font-size: 40px;
+    color: white;
+    position: fixed;
+}
+
+nav li {
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+
+.navlist {
+    background-image: linear-gradient(to right, #405fcd00 0%, #f1f1f12a 51%, #3652b600 100%);
+    text-align: center;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    border-radius: 15px;
+    display: block;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    text-align: center;
+    margin: 0px 10px;
+    padding: 3px 15px;
+    padding-bottom: 7px;
+    text-decoration: none;
+}
+
+a:hover {
+    background-position: right center;
+    color: #fff;
+}
+
+.shadow-hover:hover {
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.userfree {
+    width: 450px;
+    height: 500px;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(76, 121, 255, 0.644));
+    border-radius: 30px;
+    margin-left: 40px;
+    margin-right: 20px;
+    margin-top: 60px;
+    text-align: center;
+}
+
+.usersemipaid {
+    margin-top: -35%;
+    width: 450px;
+    height: 500px;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(76, 121, 255, 0.644));
+    border-radius: 30px;
+    margin-left: 525px;
+    text-align: center;
+
+}
+.textinside{
+    font-size: 18px;
+    color: #fff;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+.l{
+    margin-top: 80px;
+}
+.userpaid{
+    margin-top: -34%;
+    width: 450px;
+    height: 491px;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(76, 121, 255, 0.644));
+    border-radius: 30px;
+    margin-left: 1010px;
+    text-align: center;
+}
+.paidtext{
+    font-size: 16px;
+    color: #fff;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+.paidheading{
+    margin-bottom: 50px;
+    font-size: x-large;
+    text-align: center;
+    color: #fff;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+.topheading {
+    margin-bottom: 80px;
+    font-size: x-large;
+    text-align: center;
+    color: #fff;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+.bottomtext{
+    margin-top: 100px;
+    font-size: 20px;
+    text-align: center;
+    color: #34e22e;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+.bottompaidtext{
+    
+    margin-top: 40px;
+    font-size: 20px;
+    text-align: center;
+    color: #34e22e;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+.yearlyplans{
+    margin-top: -3%;
+    color: #fff;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-size: 11px;
+}
+.footnote {
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.846));
+    height: 200px;
+    margin-right: -7px;
+    margin-bottom: -9px;
+    padding-bottom: -10px;
+    margin-left: -8px;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+.copyright {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.71);
+    font-size: 12px;
+    margin-left: 20px;
+}
+
+.pa1 {
+    padding-top: 130px;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.pa2 {
+    padding-bottom: 0%;
+    padding-top: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.pa3 {
+    padding-bottom: 0%;
+    padding-top: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
